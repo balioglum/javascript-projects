@@ -1,6 +1,6 @@
 
 // birinci yöntem 
-let grades = [95, 4, 4, 21, 34, 65, 87, 9, 99, 23, 4, 12,11];
+let grades = [95, 4, 4, 21, 34, 65, 87, 9, 99, 23, 4, 12,11,17];
 
 let largest = grades[0];
 
