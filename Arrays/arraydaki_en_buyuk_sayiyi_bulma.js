@@ -1,6 +1,6 @@
 
 // birinci yöntem 
-let grades = [95, 4, 4, 21, 34, 65, 87, 9, 99, 23, 4];
+let grades = [95, 4, 4, 21, 34, 65, 87, 9, 99, 23, 4, 12];
 
 let largest = grades[0];
 
@@ -15,7 +15,7 @@ console.log(largest);
 console.log(grades.indexOf(largest));
 
 
-/*
+/* -------------------------------
 // ikinci yöntem
 let largest = grades[0];
 for (let i = 0; i < grades.length; i++) {
