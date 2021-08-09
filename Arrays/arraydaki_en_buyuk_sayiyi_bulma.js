@@ -15,7 +15,7 @@ console.log(largest);
 console.log(grades.indexOf(largest));
 
 
-/* -------------------------------
+/* ----------------------------
 // ikinci yöntem
 let largest = grades[0];
 for (let i = 0; i < grades.length; i++) {
