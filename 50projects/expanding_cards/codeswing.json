@@ -1,0 +1,5 @@
+{
+  "markup": [index.html],
+  "scripts": [script.js],
+  "styles": [style.css]
+}
