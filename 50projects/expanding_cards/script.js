@@ -3,7 +3,7 @@
 const panels = document.querySelectorAll(".panel")
 
 panels.forEach(panel => {
-  panel.addEventListener("click", () => {
+  panel.addEventListener("click", event => {
     /* panel.classList.remove("active"); */ //bunu buraya yazamayız, çünkü o zaman sadece tıklanan divden active class'ı kaldırır, sonra aşağıdaki satırla yine ona ekler.
      removeAllActiveClasses()   //tüm panellerden active class'ı siliyor
      panel.classList.add("active") //tıklanan panele  active class'ı ekliyor
