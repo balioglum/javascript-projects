@@ -41,12 +41,11 @@ body {
   bottom: 20px;
   left: 20px;
   margin: 0;
-  opacity: 0; /*we'llshow them when they're active*/
+  opacity: 0; /*we'll make opacity=1 when they're active*/
 }
 
 .panel.active {
   flex: 5;
-  background-
 }
 
 .panel.active h3 {
